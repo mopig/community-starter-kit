@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Awesome leo
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Awesome Leo
 
 ## Getting started
 
